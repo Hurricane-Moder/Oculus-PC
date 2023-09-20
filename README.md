@@ -1,2 +1,2 @@
-# Oculus-PC
-Get the oculus PC file
+# HurricaneMods.exe
+Get the Hurricane mods now.
